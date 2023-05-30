@@ -4,7 +4,7 @@
 # X: explanatory variables
 # Z: random effects design matrix
 # s: spatial sampling locations
-# nu: shape parameter for Matern model
+# nu: smoothness parameter for Matern model
 # a,b: Prior distribution for R2 ~ Beta(a,b)
 # a0, b0: Hyper-paramters for sigma2 ~ IG(a0, b0)
 # mu0, sigma20: Hyper-parameter for beta0 ~ N(mu0, sigma20)
